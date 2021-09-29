@@ -1,0 +1,22 @@
+{
+  "name": "thor-deploy",
+  "version": "0.1.0",
+  "description": "Thor deploy tool for developer",
+  "bin": {
+    "thor-deploy": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youngbeen",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "enquirer": "^2.3.6",
+    "fs-extra": "^9.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngbeen/thor-deploy"
+  }
+}
