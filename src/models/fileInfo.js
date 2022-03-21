@@ -52,6 +52,9 @@ module.exports = [
     value: 'src/ctrls/SystemCtrl.js'
   },
   {
+    value: 'src/directives/resizeTableColumn.js'
+  },
+  {
     value: 'src/api/base.js'
   },
   {

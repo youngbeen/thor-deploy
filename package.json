@@ -1,6 +1,6 @@
 {
   "name": "thor-deploy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Thor deploy tool for developer",
   "bin": {
     "thor-deploy": "src/index.js"
